@@ -1,0 +1,9 @@
+name: HuskyGlowing
+version: '1.0'
+main: org.siberianhusy.huskyglowing.HuskyGlowing
+api-version: '1.18'
+softdepend:
+  - BattleRoyaleX
+commands:
+  glowing:
+    aliases: glow

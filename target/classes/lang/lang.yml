@@ -1,0 +1,14 @@
+help:
+  - '&6==========&eHuskyGlowing&6=========='
+  - '&e/glow help &7查看帮助'
+  - '&e/glow 0 &7更新所有旁观者看见非旁观者发光'
+  - '&e/glow 1 &7更新自己可以看见所有玩家发光&c(仅游戏内)'
+  - '&e/glow disglow &7为自己取消看见发光效果&c(仅游戏内)'
+  - '&e/glow plugins &7查看当前扩展加载状态'
+glow:
+  #/glow 0
+  command0: "&e已设置所有旁观者可见玩家发光！"
+  #glow 1
+  command1: "&e已为你开启荧光可视！"
+  #/glow disglow
+  disGlow: "&e已为你关闭荧光可视！"

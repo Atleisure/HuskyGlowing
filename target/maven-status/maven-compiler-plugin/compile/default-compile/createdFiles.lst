@@ -1,0 +1,11 @@
+org\siberianhusy\huskyglowing\events\JoinEvent.class
+org\siberianhusy\huskyglowing\events\ExitEvent.class
+org\siberianhusy\huskyglowing\utils\Glow.class
+org\siberianhusy\huskyglowing\utils\Replace.class
+org\siberianhusy\huskyglowing\events\StartEvent.class
+org\siberianhusy\huskyglowing\commands\Commands.class
+org\siberianhusy\huskyglowing\HuskyGlowing.class
+org\siberianhusy\huskyglowing\utils\SendMessage.class
+org\siberianhusy\huskyglowing\utils\LoadLang.class
+org\siberianhusy\huskyglowing\data\Data.class
+org\siberianhusy\huskyglowing\events\ChangeModeEvent.class
