@@ -12,7 +12,7 @@
 - /glow plugins 查看当前扩展加载状态
 
 #### 关于开发的小碎碎： 
-由于MUA铁镐杯(大逃杀)直播方便ob人员而写了词插件(很唐突)  
+由于MUA铁镐杯(大逃杀)直播，方便ob人员而写了本插件(很唐突)  
 所以本插件支持检测[BattleRoyaleX](https://www.mcbbs.net/thread-1464640-1-1.html)开始游戏操作(将所以处于旁观者模式的玩家设置可见玩家荧光)  
 这也是/glow 0的由来  
 当然BattleRoyaleX不是非必要
